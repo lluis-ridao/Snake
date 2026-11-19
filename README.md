@@ -2,7 +2,7 @@
 
 El clásico Snake en el navegador, en un solo archivo HTML: sin anuncios, sin rastreadores y sin instalar nada.
 
-**[Jugar ahora](https://lluis-ridao.github.io/snake/)**
+**[Jugar ahora](https://lluis-ridao.github.io/Snake/)**
 
 - Flechas o WASD para moverte, espacio para pausar.
 - En el móvil, desliza el dedo.
